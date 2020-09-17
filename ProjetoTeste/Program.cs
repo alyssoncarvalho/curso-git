@@ -8,6 +8,8 @@ namespace ProjetoTeste
     {
       Console.WriteLine("Hello World!");
 
+      Console.WriteLine("Alterando o arquivo");
+
       Console.ReadLine();
     }
   }
